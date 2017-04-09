@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <?= link_tag('assest/css/bootstrap.min.css'); ?>
-  <title>Padle.com</title>
+	<?= link_tag('assest/css/bootstrap.min.css'); ?>
+	<title>Padle.com</title>
 </head>
 <body>
 <nav class="navbar navbar-default">
