@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <?= link_tag('assest/css/bootstrap.min.css'); ?>
-  <title>Padle.com</title>
+	<?= link_tag('assest/css/bootstrap.min.css'); ?>
+	<title>Padle.com</title>
 </head>
 <body>
 <nav class="navbar navbar-default">
@@ -46,10 +46,3 @@
     </div>
   </div>
 </nav>
-Back to topBlogRSSTwitterGitHubAPISupport
-Made by Thomas Park. Contact him at thomas@bootswatch.com.
-Code released under the MIT License.
-Based on Bootstrap. Icons from Font Awesome. Web fonts from Google.
-
-</body>
-</html>
